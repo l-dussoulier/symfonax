@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:Symfony" x:Class="Symfony.MainPage">
+    <StackLayout>
+        <ScrollView>
+            <StackLayout x:Name = "Layout">
+                <!--<BoxView BackgroundColor="Silver" HeightRequest="60" WidthRequest="60"/>
+                <BoxView BackgroundColor="Silver" HeightRequest="60" WidthRequest="60"/>
+                <BoxView BackgroundColor="Silver" HeightRequest="60" WidthRequest="60"/>
+                <BoxView BackgroundColor="Silver" HeightRequest="60" WidthRequest="60"/>
+                <BoxView BackgroundColor="Silver" HeightRequest="60" WidthRequest="60"/>
+                <BoxView BackgroundColor="Silver" HeightRequest="60" WidthRequest="60"/>
+                            <BoxView BackgroundColor="Silver" HeightRequest="60" WidthRequest="60"/>
+                <BoxView BackgroundColor="Silver" HeightRequest="60" WidthRequest="60"/>
+                <BoxView BackgroundColor="Silver" HeightRequest="60" WidthRequest="60"/>
+                <BoxView BackgroundColor="Silver" HeightRequest="60" WidthRequest="60"/>
+                <BoxView BackgroundColor="Silver" HeightRequest="60" WidthRequest="60"/>
+                <BoxView BackgroundColor="Silver" HeightRequest="60" WidthRequest="60"/>
+                
+                            <BoxView BackgroundColor="Silver" HeightRequest="60" WidthRequest="60"/>
+                <BoxView BackgroundColor="Silver" HeightRequest="60" WidthRequest="60">
+                
+            </BoxView>
+                
+                <BoxView BackgroundColor="Silver" HeightRequest="60" WidthRequest="60"/>
+                <BoxView BackgroundColor="Silver" HeightRequest="60" WidthRequest="60"/>
+                <BoxView BackgroundColor="Silver" HeightRequest="60" WidthRequest="60"/>
+                <BoxView BackgroundColor="Silver" HeightRequest="60" WidthRequest="60"/>-->
+            
+
+            </StackLayout>                        
+        </ScrollView>
+    </StackLayout>   
+</ContentPage>

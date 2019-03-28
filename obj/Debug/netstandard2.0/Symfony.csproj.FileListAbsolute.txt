@@ -1,0 +1,12 @@
+/Users/louis/Projects/Symfony/Symfony/bin/Debug/netstandard2.0/Symfony.deps.json
+/Users/louis/Projects/Symfony/Symfony/bin/Debug/netstandard2.0/Symfony.dll
+/Users/louis/Projects/Symfony/Symfony/bin/Debug/netstandard2.0/Symfony.pdb
+/Users/louis/Projects/Symfony/Symfony/obj/Debug/netstandard2.0/Symfony.csprojAssemblyReference.cache
+/Users/louis/Projects/Symfony/Symfony/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/louis/Projects/Symfony/Symfony/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/louis/Projects/Symfony/Symfony/obj/Debug/netstandard2.0/Symfony.csproj.CoreCompileInputs.cache
+/Users/louis/Projects/Symfony/Symfony/obj/Debug/netstandard2.0/Symfony.AssemblyInfoInputs.cache
+/Users/louis/Projects/Symfony/Symfony/obj/Debug/netstandard2.0/Symfony.AssemblyInfo.cs
+/Users/louis/Projects/Symfony/Symfony/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/louis/Projects/Symfony/Symfony/obj/Debug/netstandard2.0/Symfony.dll
+/Users/louis/Projects/Symfony/Symfony/obj/Debug/netstandard2.0/Symfony.pdb
